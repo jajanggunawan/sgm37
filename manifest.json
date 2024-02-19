@@ -1,31 +1,25 @@
 {
   "name": "SGM37",
-  "short_name": "sgm37",
-  "scope": "https://www.sgm.my.id/",
+  "short-name": "SGM37",
   "start_url": "https://www.sgm.my.id/",
+  "scope": ".", 
   "display": "standalone",
   "background_color": "#fff",
-  "theme_color": "#2B0C93",
-  "description": "Jejak digital TQN Suryalaya sebagai pusat tasawuf Asean",
-  "icons": [{
-    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhyK2fAPI0KO0d5G1-D_saIEPmrM6dhbWgKC5yF4KPv99Ud0Xa5-bhfzaEspKmm9AuD4OOcmyyrBGUhw3DotBHq4d2HPz02eBEachmKV_SwWyWSGCyYe-LCVGaaLUXC2e9Xys8rlRfOg019Oo7Z_J_XVboqv5_vZfKBf7_Z2b4q9ZnGE9iqevFO4gIjX_4/s48/android-icon-48x48.png/s48/logo.png",
-    "sizes": "48x48",
-    "type": "image/png"
-  }, {
-    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiDic51TIGkawVjObns7lv-ti-HvnluDex2cQ0K5tT5GnsaQNOxxzQk85JTTvtsqWBGlow_ETcImPs8PoSZxiUI9Rz2ry2EmKOg9xd9rtnnf2Pmtmz2wvbwvXDdFcIhxqfEjPjf_AOQUHI0gLjYimDJBmqlniqo_0SPNpTXUQENu5qsTmwp7egpTo66yOo/s72/android-icon-72x72.png",
-    "sizes": "72x72",
-    "type": "image/png"
-  }, {
-    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjoOjgwJhVoWUqQWbxiYUYvgUaDHaw0PnZwHVDPQPyxDMR04RaTCDbBO8WdTodwll8KhwDV_RyOS6HxmZyXRl0XT4vhr6aYUH-WsF5A67XPNx0FwTlKVfdes1cteZVK3Ah9QHuerfbQ1HQbVPbEhsLHikuaSsuR2Nc_H-qd_I0n2VCgi5nSK3IMZe2yng8/s96/android-icon-96x96.png/s96/logo.png",
-    "sizes": "96x96",
-    "type": "image/png"
-  }, {
-    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg5058Ko9MIWJTkIJlV11oiEqg_BoF3wlIVAAlxQD5BtTk9WbpjFD0XuzXv85KVzAGWH3BOYYz9U9vmb6eaRLXXhqw1CgohpEezeU0XzIDb2B1iKFOiv_U5VHQcLTTuq38mPCAQwIYQeo8PvruMhefMVxv8on4-A0PjeqTRE1GxNYVbY1FKWUcBf92rKXE/s144/android-icon-144x144.png/s144/logo.png",
-    "sizes": "144x144",
-    "type": "image/png"
-  }, {
-    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZ6CxG3jff4EvVMa2lgiv5Kq6NIMiFo1V_GaKregT3Yzwtbq9VlL3oQsddITPefQ8kwiGPKweXsVrO-bV_z-1nR7iSderJNYwUlRy01uLR3GgC_rhbbRGQ1n9qZyKmXm0oZaXe4gKLpKHsNStBp4Y1yAkyFQmyI_wA6Mpg90ULRId_j21IpTEjTpZId6I/s192/android-icon-192x192.png/s192/logo.png",
-    "sizes": "192x192",
-    "type": "image/png"
-  }]
-}
+  "theme_color": "#3A1AB1",
+  "description": "Saya Guru Mursyid TQN Suryalaya ke-37",
+  "dir": "ltr",
+  "lang": "en-US",
+  "orientation": "portrait-primary",
+  "icons": [
+     {
+       "src": "src/img/a48.jpg",
+       "type": "image/jpg",
+       "size": "48x48"
+     },
+     {
+       "src": "src/img/a64.jpg",
+       "type": "image/jpg",
+       "size": "64x64"
+     }
+   ],
+  }
