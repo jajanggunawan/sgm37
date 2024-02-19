@@ -12,14 +12,14 @@
   "orientation": "portrait-primary",
   "icons": [
      {
-       "src": "src/img/a48.jpg",
+       "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhyK2fAPI0KO0d5G1-D_saIEPmrM6dhbWgKC5yF4KPv99Ud0Xa5-bhfzaEspKmm9AuD4OOcmyyrBGUhw3DotBHq4d2HPz02eBEachmKV_SwWyWSGCyYe-LCVGaaLUXC2e9Xys8rlRfOg019Oo7Z_J_XVboqv5_vZfKBf7_Z2b4q9ZnGE9iqevFO4gIjX_4/s48/android-icon-48x48.png",
        "type": "image/jpg",
        "size": "48x48"
      },
      {
-       "src": "src/img/a64.jpg",
+       "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiDic51TIGkawVjObns7lv-ti-HvnluDex2cQ0K5tT5GnsaQNOxxzQk85JTTvtsqWBGlow_ETcImPs8PoSZxiUI9Rz2ry2EmKOg9xd9rtnnf2Pmtmz2wvbwvXDdFcIhxqfEjPjf_AOQUHI0gLjYimDJBmqlniqo_0SPNpTXUQENu5qsTmwp7egpTo66yOo/s72/android-icon-72x72.png",
        "type": "image/jpg",
-       "size": "64x64"
+       "size": "72x72"
      }
    ],
   }
